@@ -1,13 +1,12 @@
-Descrições dos programas desse diretório podem ser encontrados abaixo.
+# Miscellaneous Projects
 
-# Sequenciador
+Descriptions of the programs in this directory can be found below.
 
-Um programa que cria várias sequências numéricas diferentes, de acordo com os inputs desejados pelo usuário. Foi criado como um treino para minhas habilidades em python.
+## Sequenciador
+A program that generates various different numerical sequences based on the inputs desired by the user. It was created as practice for my Python skills.
 
-# Lol champion stats
+## LoL Champion Stats
+A program that accesses the League of Legends wiki page, retrieves information about selected champions using web scraping (Beautiful Soup), calculates the "Effective Health," and plots graphs with these values using Matplotlib.
 
-Um programa que acessa a pagina da wiki do jogo League of Legends, retira as informações sobre os campeões escolhidos utilizando web-scrapping (Beatiful Soup), realiza o cálculo da "Vida efetiva", e traça gráficos com esses valores utilizando o Matplotlib.
-
-# Trabalho excel
-
-O trabalho final da eletiva de Excel da FGV. É um algoritmo para otimizar os parâmetros de um modelo preditivo, minimizando o erro entre a previsão e o valor real.
+## Trabalho excel
+The final project for the elective Excel course at FGV. It's an algorithm designed to optimize the parameters of a predictive model by minimizing the error between the prediction and the actual value.
