@@ -2,6 +2,10 @@
 
 Descriptions of the programs in this directory can be found below.
 
+## ExerColab
+
+A R Shiny App that uploads problem sets written in RMarkdown to a platform where anyone can answer and post their answers. THe answers can contain text, images, and code, which is evaluated an printed in real time. Made as a companion to R classes I was teaching.
+
 ## Sequenciador
 A program that generates various different numerical sequences based on the inputs desired by the user. It was created as practice for my Python skills.
 
